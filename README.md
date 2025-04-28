@@ -1,7 +1,11 @@
 # Analisis-de-Ventas-Rendimiento
+
 Título del Proyecto
+
 #Análisis de Datos de Tiendas Comerciales con Python
+
 Descripción
+
 Este proyecto realiza un análisis exhaustivo de datos de ventas de tiendas comerciales utilizando Python y sus librerías de análisis de datos. El objetivo es proporcionar información valiosa sobre el rendimiento de las tiendas, identificar áreas de oportunidad y apoyar la toma de decisiones. El análisis se aplicó a 4 tiendas comerciales.
 
 Tabla de Contenidos
